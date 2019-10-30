@@ -1,0 +1,65 @@
+.vietnam {
+  width: 310px;
+}
+.star {
+  width: 35px;
+  position: relative;
+  left: -120px;
+  bottom: 85px;
+}
+.star2 {
+  width: 35px;
+  position: relative;
+  left: -97px;
+  bottom: 125px;
+}
+.star3 {
+  width: 35px;
+  position: relative;
+  left: 157px;
+  bottom: 192px;
+}
+.star4 {
+  width: 35px;
+  position: relative;
+  left: 84px;
+  bottom: 340px;
+}
+.star5 {
+  width: 35px;
+  position: relative;
+  left: 23px;
+  bottom: 360px;
+}
+.star6 {
+  width: 35px;
+  position: relative;
+  left: -86px;
+  bottom: 560px;
+}
+.left-div {
+  width: 380px;
+}
+.main-header {
+  font-weight: 800;
+  font-size: 50px;
+  color: white;
+  text-align: left;
+}
+.button1 {
+  display:contents; 
+} 
+.right-h1 {
+  color: #FFCD00;
+  font-weight: 800;
+  font-size: 50px;
+}
+.right-p1 {
+  color: white;
+  font-size: 20px;
+}
+.right-p2 {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
